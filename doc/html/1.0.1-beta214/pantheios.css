@@ -1,0 +1,78 @@
+/* 
+ *
+ * 
+ * Updated:	5th December 2007
+ */
+
+body
+{
+    background-color: #ffffff;
+    font-size: 9pt;
+    font-family: verdana, arial, helvetica, sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 0px;
+}
+code
+{
+    background-color: #dddddd;
+    font-weight: normal;
+    font-size: 9pt;
+    font-family: Courier, sans-serif;
+    color: #333333
+}
+h1
+{
+    /* background-color: #ff33ff; */
+    font-size: 32px;
+    font-weight: bold;
+    color: black;
+    font-family: verdana, arial, helvetica, sans-serif;
+}
+h2
+{
+    /* background-color: #ffff33; */
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    font-family: verdana, arial, helvetica, sans-serif;
+}
+li
+{
+    /* background-color: #33ff33; */
+}
+div.fragment
+{
+    font-size: 8pt;
+    color: black;
+    background-color: #ffffff;
+}
+
+
+span.keyword       { color: #008000 }
+span.keywordtype   { color: #604020 }
+span.keywordflow   { color: #e08000 }
+span.comment       { color: #800000 }
+span.preprocessor  { color: #806020 }
+span.stringliteral { color: #002080 }
+span.charliteral   { color: #008080 }
+
+td.indexkey
+{
+    background-color: #ffffff;
+    font-size: 9pt;
+    font-family: verdana, arial, helvetica, sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 0px;
+}
+
+td.indexvalue
+{
+    background-color: #ffffff;
+    font-size: 9pt;
+    font-family: verdana, arial, helvetica, sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 0px;
+}
