@@ -126,6 +126,8 @@ public:
     explicit boolean(bool value)
         : m_value(value)
     {}
+    virtual ~boolean()
+    {}
 private:
     class_type& operator =(class_type const&);
 /// @}
