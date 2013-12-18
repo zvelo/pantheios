@@ -1,0 +1,13 @@
+{
+    "github": {
+        "repo": "pantheios"
+    },
+    "pivotal_tracker": {
+        "project": {
+            "id": 923660
+        }
+    },
+    "hipchat": {
+        "room": "zveloCAT"
+    }
+}
